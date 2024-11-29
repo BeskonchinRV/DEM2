@@ -1,0 +1,12 @@
+C:\Users\Павел\source\repos\DemoEx\DemoEx\bin\Debug\DemoEx.exe.config
+C:\Users\Павел\source\repos\DemoEx\DemoEx\bin\Debug\DemoEx.exe
+C:\Users\Павел\source\repos\DemoEx\DemoEx\bin\Debug\DemoEx.pdb
+C:\Users\Павел\source\repos\DemoEx\DemoEx\obj\Debug\DemoEx.csproj.AssemblyReference.cache
+C:\Users\Павел\source\repos\DemoEx\DemoEx\obj\Debug\DemoEx.AuthForm.resources
+C:\Users\Павел\source\repos\DemoEx\DemoEx\obj\Debug\DemoEx.MainForm.resources
+C:\Users\Павел\source\repos\DemoEx\DemoEx\obj\Debug\DemoEx.Properties.Resources.resources
+C:\Users\Павел\source\repos\DemoEx\DemoEx\obj\Debug\DemoEx.csproj.GenerateResource.cache
+C:\Users\Павел\source\repos\DemoEx\DemoEx\obj\Debug\DemoEx.csproj.CoreCompileInputs.cache
+C:\Users\Павел\source\repos\DemoEx\DemoEx\obj\Debug\DemoEx.exe
+C:\Users\Павел\source\repos\DemoEx\DemoEx\obj\Debug\DemoEx.pdb
+C:\Users\Павел\source\repos\DemoEx\DemoEx\obj\Debug\DemoEx.EditForm.resources
